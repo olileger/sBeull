@@ -1,2 +1,2 @@
 # sBeull
-A Framework to build distributed in-memory reliable objects
+A Framework to build distributed in-memory reliable objects using Python
